@@ -1,4 +1,8 @@
-# EternalSNS
+### EternalSNS
+
+[🧐 Want to see the progress of the project?](https://toload.tistory.com/category/Toy%20Project/EternalSNS)
+
+---
 
 SNS project created to study Kotlin
 
